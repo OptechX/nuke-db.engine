@@ -1,0 +1,5 @@
+msi
+exe
+exe2
+inno
+script

@@ -1,0 +1,4 @@
+Registry
+FileVersion
+File
+Script

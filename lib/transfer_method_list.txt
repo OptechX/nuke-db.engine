@@ -1,0 +1,7 @@
+mc
+ftp
+sftp
+ftpes
+http
+https
+s3

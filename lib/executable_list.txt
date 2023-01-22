@@ -1,0 +1,8 @@
+msi
+msix
+exe
+bat
+ps1
+cmd
+zip
+7z

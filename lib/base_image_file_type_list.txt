@@ -1,0 +1,4 @@
+WIM
+ISO
+VHD
+GHO
